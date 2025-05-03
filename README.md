@@ -1,11 +1,12 @@
 # Hi there, I'm Can Kayan 👋
 
  
-I'm a software developer with a background in Computer Programming. I specialize in a variety of technologies including Python, C#, JavaScript (ES6), Node.js, and the MERN stack (MongoDB, Express.js, React). I have strong experience in both backend and frontend development, database management, machine learning, and data analysis. Additionally, I've gained teaching experience by providing programming lessons to students.
+I am a software developer with a degree in Computer Programming. I have strong experience in technologies such as Python, C#, MERN, Next.js, TypeScript, SQL and NoSQL. I have implemented projects in Server/Client development, database management, machine learning and data analysis. I have gained teaching experience by teaching programming courses to students. With my analytical thinking, problem solving and effective solution generation skills, I develop user-friendly and scalable software.
 
 ### My Skill Set:
 - **Languages & Frameworks:**  
-  ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
 
 - **Databases:**  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
